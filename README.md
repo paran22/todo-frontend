@@ -6,7 +6,7 @@
 
 ```bash
 git clone <이 저장소 주소>
-cd react-todo-crud
+cd todo-frontend
 npm install
 npm run dev
 ```
